@@ -1,4 +1,4 @@
-# SSH MySQL Automation Toolkit - Core Functions
+# SSH MySQL And AWS EC2 Server Automation Toolkit - Core Functions
 
 ## SSH Connection Management
 
